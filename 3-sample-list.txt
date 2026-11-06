@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-11-06T07:50:26Z",
+  "has_more": true,
+  "next_since": null,
+  "next_after_id": null,
+  "sort": "reward",
+  "count": 20,
+  "total_matching": 35,
+  "items": [
+    {
+      "id": "algora:onyx-dot-app/onyx#2281",
+      "source": "algora",
+      "kind": "bounty",
+      "title": "Jira Service Management Connector",
+      "reward": 250,
+      "currency": "USD",
+      "est_usd": 250,
+      "network": null,
+      "deadline": null,
+      "url": "https://github.com/onyx-dot-app/onyx/issues/2281",
+      "requires": [
+        "github",
+        "kyc"
+      ],
+      "slots_left": null,
+      "first_seen": "2026-10-24T00:10:51Z",
+      "eligibility": "Algora bounty on GitHub (onyx-dot-app/onyx); sponsor Onyx (YC W24). Comment /attempt #2281, then open a PR with /claim #2281. Paid in USD via Algora (Stripe payout, needs KYC). Bounty posted 2024-08-30; 42 /attempt comments, 1 claiming PRs so far.",
+      "verified": {
+        "checked_at": "2026-11-06T04:57:53Z"
+      },
+      "stale": true,
+      "trust_layer": "paid",
+      "paid_evidence": {
+        "available": [
+          "payout_track_record",
+          "competition",
+          "extra",
+          "verified.how"
+       

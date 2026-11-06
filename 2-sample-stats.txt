@@ -1,0 +1,40 @@
+# connected to agent-bounty-feed v1.2.0
+{
+  "generated_at": "2026-11-06T07:50:26Z",
+  "stats": {
+    "items": 35,
+    "total_usd": 627.15,
+    "by_source": {
+      "algora": {
+        "items": 8,
+        "usd": 443,
+        "ok": false
+      },
+      "superteam": {
+        "items": 1,
+        "usd": 125,
+        "ok": true
+      },
+      "frantic": {
+        "items": 7,
+        "usd": 37,
+        "ok": true
+      },
+      "taskmarket": {
+        "items": 17,
+        "usd": 17,
+        "ok": true
+      },
+      "direct": {
+        "items": 1,
+        "usd": 5,
+        "ok": true
+      },
+      "hondo": {
+        "items": 1,
+        "usd": 0.15,
+        "ok": true
+      },
+      "basedagents": {
+        "items": 0,
+        "usd": 0,
